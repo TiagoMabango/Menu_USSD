@@ -1,0 +1,12 @@
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\bin\Debug\net5.0\MenuUSSD.App.deps.json
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\bin\Debug\net5.0\MenuUSSD.App.dll
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\bin\Debug\net5.0\ref\MenuUSSD.App.dll
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\bin\Debug\net5.0\MenuUSSD.App.pdb
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\obj\Debug\net5.0\MenuUSSD.App.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\obj\Debug\net5.0\MenuUSSD.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\obj\Debug\net5.0\MenuUSSD.App.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\obj\Debug\net5.0\MenuUSSD.App.AssemblyInfo.cs
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\obj\Debug\net5.0\MenuUSSD.App.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\obj\Debug\net5.0\MenuUSSD.App.dll
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\obj\Debug\net5.0\ref\MenuUSSD.App.dll
+C:\Users\tiago\source\repos\MenuUSSD\MenuUSSD.App\obj\Debug\net5.0\MenuUSSD.App.pdb
